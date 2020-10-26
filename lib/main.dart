@@ -30,16 +30,7 @@ class _MyAppState extends State<MyApp> {
     });
 
     }
-  /*var db = ["dhyan", "kirit", "patel"];
-  var index = 0;
-  click() {
-    setState(() {
-      index++;
-    });
-    print('clicked._._._._');
-    print("indexed changed");
-    print(index);
-  }*/
+ 
  
   @override
   Widget build(BuildContext context) {
